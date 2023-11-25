@@ -49,6 +49,11 @@ export const info = {
     ],
     socials: [
         {
+            link: "https://mnglvrc.postype.com/",
+            icon: "fa fa-picture-o",
+            label: 'twitter'
+        },
+        {
             link: "https://twitter.com/MngLVRC",
             icon: "fa fa-twitter",
             label: 'twitter'
