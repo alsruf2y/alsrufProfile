@@ -22,9 +22,9 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "MngL",
-    lastName: "VRC",
-    initials: "MngL", // the example uses first and last, but feel free to use three or more if you like.
+    firstName: "alsruf",
+    lastName: "",
+    initials: "alsruf", // the example uses first and last, but feel free to use three or more if you like.
     position: "a VRChat User",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
@@ -44,29 +44,29 @@ export const info = {
         },
         {
             emoji: "",
-            text: "ORANGE"
+            text: "Facial"
         }
     ],
     socials: [
         {
-            link: "https://mnglvrc.postype.com/",
+            link: "https://www.postype.com/@alsruf",
             icon: "fa fa-picture-o",
-            label: 'twitter'
+            label: 'blog'
         },
         {
-            link: "https://twitter.com/MngLVRC",
+            link: "https://www.postype.com/@alsruf2y",
+            icon: "fa fa-picture-o",
+            label: 'blog'
+        },
+        {
+            link: "https://twitter.com/alsruf2y",
             icon: "fa fa-twitter",
             label: 'twitter'
         },
         {
-            link: "https://www.youtube.com/channel/UC-k_YZfod-zz283Cqe9sZiw",
+            link: "https://www.youtube.com/@alsruf2y",
             icon: 'fa fa-youtube',
             label: 'youtube'
-        },
-        {
-            link: "https://www.twitch.tv/mnglvrc",
-            icon: 'fa fa-twitch',
-            label: 'twitch'
         },
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
@@ -105,19 +105,19 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "2023-10-23",
+            title: "",
             image: mock1
         },
         {
-            title: "2023-10-26",
+            title: "",
             image: mock2
         },
         {
-            title: "2023-10-26",
+            title: "",
             image: mock3
         },
         {
-            title: "2023-10-26",
+            title: "",
             image: mock4
         },
     ]
