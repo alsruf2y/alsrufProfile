@@ -49,14 +49,19 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://www.postype.com/@alsruf",
+            link: "https://www.postype.com/@alsruf2y",
             icon: "fa fa-picture-o",
             label: 'blog'
         },
         {
-            link: "https://www.postype.com/@alsruf2y",
-            icon: "fa fa-picture-o",
+            link: "https://www.postype.com/@alsruf",
+            icon: "fa fa-pencil",
             label: 'blog'
+        },
+        {
+            link: "https://mnglvrc.notion.site/eb56b2008098450dbb5a02e4e09ba56e?v=f5eea893519d46fe8a9b22ca73413606",
+            icon: "fa fa-music",
+            label: 'playlist'
         },
         {
             link: "https://twitter.com/alsruf2y",
