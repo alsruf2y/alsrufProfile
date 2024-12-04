@@ -80,8 +80,8 @@ export const info = {
     bio: "Keep that in mind. Maybe I can't do what you want. But I will mean it. Even if I falsely remain with you.",
     skills:
         {
-            proficientWith: ['Unity', 'R-18', 'Photo', 'Kawai Move', 'Video'],
-            exposedTo: ['Public Avatar', 'Mutism User', 'Male Avatar', 'Desktop User']
+            proficientWith: ['R-18', 'Kawai User'],
+            exposedTo: ['Unity', 'Horror World', 'Male Avatar', 'Desktop User']
         }
     ,
     hobbies: [
