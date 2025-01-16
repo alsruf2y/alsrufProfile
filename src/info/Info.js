@@ -54,11 +54,6 @@ export const info = {
             label: 'twitter'
         },
         {
-            link: "https://mingyeol.tistory.com/",
-            icon: "fa fa-pencil",
-            label: 'blog'
-        },
-        {
             link: "https://www.postype.com/@alsruf",
             icon: "fa fa-paragraph",
             label: 'blog'
@@ -69,20 +64,10 @@ export const info = {
             label: 'blog'
         },
         {
-            link: "https://alsruf.fanbox.cc/",
-            icon: 'fa fa-id-card-o',
-            label: 'fanbox'
-        },
-        {
             link: "https://www.youtube.com/@alsruf2y",
             icon: 'fa fa-youtube',
             label: 'youtube'
-        },
-        {
-            link: "https://alsruf.notion.site/eb56b2008098450dbb5a02e4e09ba56e?v=f5eea893519d46fe8a9b22ca73413606",
-            icon: "fa fa-music",
-            label: 'playlist'
-        },
+        }
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
 
