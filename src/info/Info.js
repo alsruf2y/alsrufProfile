@@ -64,6 +64,11 @@ export const info = {
             label: 'blog'
         },
         {
+            link: "https://mingyeol.tistory.com/",
+            icon: 'fa fa-pencil',
+            label: 'blog'
+        },        
+        {
             link: "https://www.youtube.com/@alsruf2y",
             icon: 'fa fa-youtube',
             label: 'youtube'
