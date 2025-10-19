@@ -49,6 +49,11 @@ export const info = {
     ],
     socials: [
         {
+            link: "https://twitter.com/alsruf2p",
+            icon: "fa fa-twitter",
+            label: 'twitter'
+        },
+        {
             link: "https://twitter.com/alsruf2y",
             icon: "fa fa-twitter",
             label: 'twitter'
@@ -58,16 +63,6 @@ export const info = {
             icon: "fa fa-paragraph",
             label: 'blog'
         },
-        {
-            link: "https://www.postype.com/@alsruf2y",
-            icon: "fa fa-picture-o",
-            label: 'blog'
-        },
-        {
-            link: "https://mingyeol.tistory.com/",
-            icon: 'fa fa-pencil',
-            label: 'blog'
-        },        
         {
             link: "https://www.youtube.com/@alsruf2y",
             icon: 'fa fa-youtube',
