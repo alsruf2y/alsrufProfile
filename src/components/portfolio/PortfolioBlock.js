@@ -1,9 +1,8 @@
 import React from 'react';
-import IconLink from "./IconLink";
 import {Box} from "@mui/material";
 
 function PortfolioBlock(props) {
-   const {image, youtubeId, live, source, title} = props;
+   const {image, youtubeId, title} = props;
    return (
       <Box display={'flex'} flexDirection={'column'} justifyContent={'center'} alignItems={'center'}>
          {youtubeId ? (
