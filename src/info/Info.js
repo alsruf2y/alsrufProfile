@@ -1,8 +1,15 @@
 import self from "../img/self.png"
-import mock1 from "../img/mock1.png"
-import mock2 from "../img/mock2.png"
-import mock3 from "../img/mock3.png"
-import mock4 from "../img/mock4.png"
+
+import mock1 from "../img/mock1.webp"
+import mock2 from "../img/mock2.webp"
+import mock3 from "../img/mock3.webp"
+import mock4 from "../img/mock4.webp"
+import mock5 from "../img/mock5.webp"
+import mock6 from "../img/mock6.webp"
+import mock7 from "../img/mock7.webp"
+import mock8 from "../img/mock8.webp"
+import mock9 from "../img/mock9.webp"
+import mock10 from "../img/mock10.webp"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -59,15 +66,16 @@ export const info = {
             label: 'twitter'
         },
         {
-            link: "https://www.postype.com/@alsruf",
-            icon: "fa fa-paragraph",
-            label: 'blog'
-        },
-        {
-            link: "https://www.youtube.com/@alsruf2y",
+            link: "https://www.youtube.com/@alsruf2p",
             icon: 'fa fa-youtube',
             label: 'youtube'
+        },
+        {
+            link: "https://www.postype.com/@alsruf/series/1378878?sort=publishedAt%2Casc",
+            icon: "fa fa-paragraph",
+            label: 'blog'
         }
+
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
 
@@ -76,7 +84,7 @@ export const info = {
     skills:
         {
             proficientWith: ['R-18', 'Kawai User'],
-            exposedTo: ['Unity', 'Horror World', 'Male Avatar', 'Desktop User']
+            exposedTo: ['High Tone', 'Mans Female Voice', 'Male Avatar', 'Desktop User', 'Horror World']
         }
     ,
     hobbies: [
@@ -120,5 +128,46 @@ export const info = {
             title: "",
             image: mock4
         },
+        {
+            title: "",
+            image: mock5
+        },
+        {
+            title: "",
+            image: mock6
+        },
+        {
+            title: "",
+            image: mock7
+        },
+        {
+            title: "",
+            image: mock8
+        },
+        {
+            title: "",
+            image: mock9
+        },
+        {
+            title: "",
+            image: mock10
+        },
+        {
+            title: "",
+            youtubeId: "kIOagSl7cY8"
+        },
+        {
+            title: "",
+            youtubeId: "0UI1xHl5JWY"
+        },
+        {
+            title: "",
+            youtubeId: "07vzKW8xJ0Q"
+        },
+        {
+            title: "",
+            youtubeId: "nGc8EJhftvk"
+        },
+
     ]
 }
